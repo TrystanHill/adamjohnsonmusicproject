@@ -1,0 +1,180 @@
+@import "bootstrap";
+
+#home-container{
+
+}
+.card_album{
+  background-image: asset-url('cover.jpg');
+  backrgound-postion: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 700px;
+  @media only screen and (max-width: 800px) {
+        background-image:asset-url('cover.jpg');
+        height: 400px;
+  }
+  @media only screen and (max-width: 400px) {
+      background-image:asset-url('cover.jpg');
+      height: 300px;
+}
+}
+.card{
+    background-image: asset-url('front_page.jpg');
+    backrgound-postion: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    @media only screen and (max-width: 800px) {
+          background-image:asset-url('front_page.jpg');
+          height: 300px;
+    }
+    @media only screen and (max-width: 400px) {
+        background-image:asset-url('front_page.jpg');
+        height: 200px;
+  }
+}
+
+
+.card1{
+    background-image: asset-url('front_page_2.jpg');
+    backrgound-postion: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    @media only screen and (max-width: 800px) {
+          background-image:asset-url('front_page_2.jpg');
+          height: 300px;
+    }
+    @media only screen and (max-width: 400px) {
+        background-image:asset-url('front_page_2.jpg');
+        height: 200px;
+  }
+}
+
+.card3{
+    background-image: asset-url('front_page_3.jpg');
+    backrgound-postion: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    @media only screen and (max-width: 800px) {
+        background-image:asset-url('front_page_3.jpg');
+        height: 300px;
+  }
+    @media only screen and (max-width: 400px) {
+      background-image:asset-url('front_page_3.jpg');
+      height: 200px;
+    }
+}
+
+.card_a{
+    background-image: asset-url('aj_show.jpg');
+    backrgound-postion: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    @media only screen and (max-width: 800px) {
+        background-image:asset-url('aj_show.jpg');
+        height: 300px;
+  }
+    @media only screen and (max-width: 400px) {
+      background-image:asset-url('aj_show.jpg');
+      height: 200px;
+    }
+}
+
+.card_a2{
+    background-image: asset-url('about_page_2.jpg');
+    backrgound-postion: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    @media only screen and (max-width: 800px) {
+        background-image:asset-url('about_page_2.jpg');
+        height: 300px;
+  }
+    @media only screen and (max-width: 400px) {
+      background-image:asset-url('about_page_2.jpg');
+      height: 200px;
+    }
+}
+
+.card_a3{
+    background-image: asset-url('about_page_3.jpg');
+    backrgound-postion: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    @media only screen and (max-width: 800px) {
+        background-image:asset-url('about_page_3.jpg');
+        height: 300px;
+  }
+    @media only screen and (max-width: 400px) {
+      background-image:asset-url('about_page_3.jpg');
+      height: 200px;
+    }
+}
+
+.card_c{
+    background-image: asset-url('contact_page.jpg');
+    backrgound-postion: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    @media only screen and (max-width: 800px) {
+        background-image:asset-url('contact_page.jpg');
+        height: 300px;
+  }
+    @media only screen and (max-width: 400px) {
+      background-image:asset-url('contact_page.jpg');
+      height: 200px;
+    }
+}
+
+.card_c1{
+    background-image: asset-url('contact_page_2.jpg');
+    backrgound-postion: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    @media only screen and (max-width: 800px) {
+        background-image:asset-url('contact_page_2.jpg');
+        height: 300px;
+  }
+    @media only screen and (max-width: 400px) {
+      background-image:asset-url('contact_page_2.jpg');
+      height: 200px;
+    }
+}
+
+.card_c2{
+    background-image: asset-url('contact_page_3.jpg');
+    backrgound-postion: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    @media only screen and (max-width: 800px) {
+        background-image:asset-url('contact_page_3.jpg');
+        height: 300px;
+  }
+    @media only screen and (max-width: 400px) {
+      background-image:asset-url('contact_page_3.jpg');
+      height: 200px;
+    }
+}
+.cardl{
+  background-image: asset-url('logo_white.jpg');
+  backrgound-postion: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 50px;
+  width: 50px;
+  @media only screen and (max-width: 50px) {
+        background-image:asset-url('logo_white.jpg');
+        height: 50px;
+  }
+  @media only screen and (max-width: 50px) {
+      background-image:asset-url('logo_white.jpg');
+      height: 50px;
+}
+}
